@@ -1,0 +1,14 @@
+[
+  {
+    "name":"robot",
+    "className":"me.changjie.entity.Robot"
+  },
+  {
+    "name":"hand",
+    "className":"me.changjie.entity.Hand"
+  },
+  {
+    "name":"mouth",
+    "className":"me.changjie.entity.Mouth"
+  }
+]
