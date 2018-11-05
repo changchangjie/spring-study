@@ -7,7 +7,7 @@ import me.changjie.entity.Robot;
 /**
  * Created by ChangJie on 2018/11/5.
  */
-public class App {
+public class SimpleIOCTest {
 
     public static void main(String[] args) throws Exception {
         JsonApplicationContext applicationContext = new JsonApplicationContext("application.json");
